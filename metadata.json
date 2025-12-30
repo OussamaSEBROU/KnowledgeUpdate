@@ -1,0 +1,9 @@
+
+{
+  "name": "Knowledge AI",
+  "description": "A high-performance research sanctuary engineered for deep extraction of axiomatic wisdom from PDF documents using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
